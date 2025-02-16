@@ -154,7 +154,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -17.4}
-  m_SizeDelta: {x: 200, y: 50}
+  m_SizeDelta: {x: 1290.489, y: 762.156}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &153209019
 MonoBehaviour:
@@ -205,8 +205,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 5.97
-  m_fontSizeBase: 5.97
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -799,8 +799,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -19.3}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0, y: -19.299995}
+  m_SizeDelta: {x: 1691.03, y: 723.189}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &782909597
 MonoBehaviour:
@@ -853,8 +853,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 3.88
-  m_fontSizeBase: 3.88
+  m_fontSize: 80
+  m_fontSizeBase: 80
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1631,7 +1631,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18, y: 322.8}
+  m_AnchoredPosition: {x: 18, y: 277}
   m_SizeDelta: {x: 176.781, y: 138.938}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1484805834
@@ -2007,7 +2007,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1977520702}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -905}
+  m_LocalPosition: {x: 0, y: 0, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2224,7 +2224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 241385983174151684, guid: 2aeb4216a783d3d44ae6d63c32e5827d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 500.1
+      value: 499.8
       objectReference: {fileID: 0}
     - target: {fileID: 241385983174151684, guid: 2aeb4216a783d3d44ae6d63c32e5827d, type: 3}
       propertyPath: m_LocalRotation.w

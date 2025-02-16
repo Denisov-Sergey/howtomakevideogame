@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
     public void CompleteGame()
     {
         Debug.Log("Game Complete");
+        gameHasEnded = true;
         completeLevelUI.SetActive(true);
     }
 

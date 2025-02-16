@@ -7,6 +7,6 @@ public class EndGameScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        gameManager.EndGame();
+        gameManager.CompleteGame();
     }
 }

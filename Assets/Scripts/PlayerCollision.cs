@@ -12,6 +12,11 @@ public class PlayerCollision : MonoBehaviour
             // GetComponent<PlayerMovement>().enabled = false;
             FindAnyObjectByType<GameManager>().EndGame();
         }
+
+        if (collision.gameObject.name == "EndGame")
+        {
+            movement.enabled = false;
+        }
         
     }
 }
